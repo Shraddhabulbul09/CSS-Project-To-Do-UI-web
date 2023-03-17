@@ -1,0 +1,130 @@
+.list{
+    color:#00a5ec;
+}
+.para1{
+    color: #00a5ec;
+    text-decoration: none;
+    font-weight: bold;
+}
+.mainbox{
+    background-color:#7b7b7b29;
+    position: absolute;
+    width: 100%;
+    height: 140%;
+    cursor: pointer;
+}
+.box{
+    background-color: white;
+    box-sizing: border-box;
+    margin: 70px auto;
+    width: 30%;
+    height: 250px;
+    border: 2px solid whitesmoke;
+    border-radius: 12px;
+    margin: 20px 12px;
+    font-size: 18px;
+}
+.box:hover{
+    box-shadow: -3px -3px 10px #67676729;
+    box-shadow: 3px 3px 10px  #67676729;
+}
+.flexbox{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+}
+.btn3{
+    color: #00a5ec;
+    font-size: large;
+}
+.btn1{
+    color: white;
+    background-color: #00a5ec;
+    border-radius: 100% solid #00a5ec;
+}
+.heading1{
+    background-color: white;
+    padding:25px;
+    margin: 0px;
+    width: 100%;
+    border: 2px solid white;
+    width: 100%;
+    height: 5%;
+}
+.addnew1{
+    position: absolute;
+    right: 30%;
+    top: 120px;
+    font-size: x-large;
+}
+/* second and fourth page */
+.inp{
+    width: 97%;
+}
+.addnew{
+    
+    background-color:white;
+    box-sizing: border-box;
+    margin: 20px auto;
+    width:25%;
+    height: 25%;
+    border: 2px solid whitesmoke;
+    border-radius: 12px;
+    margin: 20px 12px;
+    font-size: 10px;
+    position: absolute;
+    top:280px;
+    left: 36%;
+}
+.btn2{
+    color: white;
+    background-color: #00a5ec;
+    position: absolute;
+    top: 110px;
+    right: 4px;
+    width: 100px;
+    height: 30px;
+    border: none;
+}
+.crossbtn{
+    position: absolute;
+    top: 15px;
+    left: 90%;
+    font-size: x-large;
+}
+.blur{
+    filter: blur(3px);
+}
+/* thirdpage */
+.box2{
+    background-color: white;
+    box-sizing: border-box;
+    margin: 70px auto;
+    width: 25%;
+    height: 250px;
+    border: 2px solid whitesmoke;
+    border-radius: 12px;
+    margin: 20px 12px;
+    font-size: 18px;
+    position: absolute;
+    top: 200px;
+    left: 30%;
+    
+}
+.backbtn{
+    position: absolute;
+    left: 30%;
+    top: 12%;
+    font-size: large;
+}
+.addnewbtn{
+    position: absolute;
+    left: 45%;
+    top: 12%;
+}
+.btn4{
+    color: black;
+    font-size: xx-large;
+}
